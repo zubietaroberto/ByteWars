@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ByteWarsBeta</string>
+    <string name="StartButton_Text">Start Test</string>
+    <string name="LauncherText_Text">To launch test press the button below:</string>
+</resources>
